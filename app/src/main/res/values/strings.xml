@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SearchView</string>
+
+    <string-array name="array_country">
+        <item>Indonesia</item>
+        <item>Singapura</item>
+        <item>Korea</item>
+        <item>Jepang</item>
+        <item>Malaysia</item>
+        <item>Vietnam</item>
+        <item>Thailand</item>
+        <item>Filipina</item>
+        <item>Brunei</item>
+    </string-array>
+</resources>
